@@ -1,0 +1,6 @@
+C:\Users\Gui\Dropbox\AlgoritmoDeBuscaTurbo\AlgoritmoDeBuscaTurbo\AlgoritmoDeBuscaTurbo\bin\Debug\AlgoritmoDeBuscaTurbo.exe.config
+C:\Users\Gui\Dropbox\AlgoritmoDeBuscaTurbo\AlgoritmoDeBuscaTurbo\AlgoritmoDeBuscaTurbo\bin\Debug\AlgoritmoDeBuscaTurbo.exe
+C:\Users\Gui\Dropbox\AlgoritmoDeBuscaTurbo\AlgoritmoDeBuscaTurbo\AlgoritmoDeBuscaTurbo\bin\Debug\AlgoritmoDeBuscaTurbo.pdb
+C:\Users\Gui\Dropbox\AlgoritmoDeBuscaTurbo\AlgoritmoDeBuscaTurbo\AlgoritmoDeBuscaTurbo\obj\Debug\AlgoritmoDeBuscaTurbo.csprojResolveAssemblyReference.cache
+C:\Users\Gui\Dropbox\AlgoritmoDeBuscaTurbo\AlgoritmoDeBuscaTurbo\AlgoritmoDeBuscaTurbo\obj\Debug\AlgoritmoDeBuscaTurbo.exe
+C:\Users\Gui\Dropbox\AlgoritmoDeBuscaTurbo\AlgoritmoDeBuscaTurbo\AlgoritmoDeBuscaTurbo\obj\Debug\AlgoritmoDeBuscaTurbo.pdb

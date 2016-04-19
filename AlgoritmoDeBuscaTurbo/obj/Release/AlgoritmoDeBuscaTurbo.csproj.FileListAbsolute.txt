@@ -1,0 +1,5 @@
+C:\Users\Gui\Dropbox\AlgoritmoDeBuscaTurbo\AlgoritmoDeBuscaTurbo\AlgoritmoDeBuscaTurbo\bin\Release\AlgoritmoDeBuscaTurbo.exe.config
+C:\Users\Gui\Dropbox\AlgoritmoDeBuscaTurbo\AlgoritmoDeBuscaTurbo\AlgoritmoDeBuscaTurbo\bin\Release\AlgoritmoDeBuscaTurbo.exe
+C:\Users\Gui\Dropbox\AlgoritmoDeBuscaTurbo\AlgoritmoDeBuscaTurbo\AlgoritmoDeBuscaTurbo\bin\Release\AlgoritmoDeBuscaTurbo.pdb
+C:\Users\Gui\Dropbox\AlgoritmoDeBuscaTurbo\AlgoritmoDeBuscaTurbo\AlgoritmoDeBuscaTurbo\obj\Release\AlgoritmoDeBuscaTurbo.exe
+C:\Users\Gui\Dropbox\AlgoritmoDeBuscaTurbo\AlgoritmoDeBuscaTurbo\AlgoritmoDeBuscaTurbo\obj\Release\AlgoritmoDeBuscaTurbo.pdb
